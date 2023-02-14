@@ -1,3 +1,4 @@
+# Its always good to give comment in program
 def factorial(num):
     if num < 0:
         result_num = 0
@@ -18,3 +19,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
