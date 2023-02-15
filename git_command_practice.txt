@@ -9,6 +9,7 @@ cd
 git clone https://github.com/rinkysoni04/python_practice.git   
 -- one time for project clone
 
+++++++++++++++++++++++++++++++++++++++++++++
 git status
 
 git add .
@@ -16,3 +17,4 @@ git commit -m""
 git push
 
 
+++++++++++++++++++++++++++++++++++++++++++++
