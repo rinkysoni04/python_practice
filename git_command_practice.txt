@@ -3,7 +3,7 @@ go to the directory using cd command where you have repository.
 pwd - present working directory
 
 ls -alrth -- list down all folders and files in this directory 
-ls -ltr 
+ls -ltr    
 cd 
 
 git clone https://github.com/rinkysoni04/python_practice.git   
