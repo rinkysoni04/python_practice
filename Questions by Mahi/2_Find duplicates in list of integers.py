@@ -15,6 +15,9 @@ def find_duplicate(list_input):
 Duplicate_integers = find_duplicate(a_list)
 print(Duplicate_integers)
 
+#Try other approaches as well#
+
+
 
 
 
